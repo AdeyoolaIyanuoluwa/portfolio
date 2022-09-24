@@ -11,8 +11,9 @@
 .tex2{
     font-size: 30px;
 }
-.about{
+.about-me{
     line-height: 36px;
+    text-align: justify;
 }
 .img{
     height: 300px;
