@@ -13,3 +13,12 @@
 .about{
     line-height: 36px;
 }
+.img{
+    height: 350px;
+}
+.site{
+    text-decoration: none;
+    background-color: aqua;
+    padding: 15px;
+   
+}
