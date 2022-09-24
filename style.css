@@ -15,7 +15,7 @@
     line-height: 36px;
 }
 .img{
-    height: 350px;
+    height: 300px;
 }
 .site{
     text-decoration: none;
@@ -29,4 +29,12 @@
 }
 .bg-color{
     background-color: black;
+}
+.img-project{
+    height: 100px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;  
 }
