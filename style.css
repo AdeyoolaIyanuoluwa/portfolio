@@ -61,3 +61,10 @@
         transform: translateX(0);
     }
 }
+
+    
+@media screen and (max-width:868px) {
+    .img{
+        height: 80px;
+    }
+}
